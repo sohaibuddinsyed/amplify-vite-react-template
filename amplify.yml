@@ -9,6 +9,9 @@ frontend:
   phases:
     build:
       commands:
+        - npm run pwd
+        - npm run ls
+        - npm run whoami
         - npm run build
   artifacts:
     baseDirectory: dist
