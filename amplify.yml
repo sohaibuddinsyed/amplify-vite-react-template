@@ -4,6 +4,7 @@ frontend:
     build:
       commands:
         - printenv
+        - echo $AWS_GITHUB_SSH_PUBLIC_KEYS
         - cat ~/.ssh/known_hosts
         - npm run pwd
         - npm run ls
