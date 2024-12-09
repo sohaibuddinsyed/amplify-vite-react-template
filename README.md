@@ -24,4 +24,4 @@ See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more inform
 This repo is connected to multiple apps now!
 ## License
 
-This library is licensed under the MIT-0 License. See the LICENSE file.h
+This library is licensed under the MIT-0 License. See the LICENSE file.
