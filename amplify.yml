@@ -4,6 +4,7 @@ frontend:
     build:
       commands:
         - printenv
+        - cat ~/.ssh/known_hosts
         - npm run pwd
         - npm run ls
         - npm run whoami
