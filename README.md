@@ -25,5 +25,3 @@ This repo is connected to multiple apps now!
 ## License
 
 This library is licensed under the MIT-0 License. See the LICENSE file. 
-
-This is the last commit of rev2
